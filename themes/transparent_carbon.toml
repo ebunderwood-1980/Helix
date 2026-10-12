@@ -1,0 +1,4 @@
+
+
+inherits = "carbon"
+"ui.background" ={ bg = "none" }
