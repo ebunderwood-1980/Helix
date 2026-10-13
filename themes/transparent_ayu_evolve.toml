@@ -1,3 +1,7 @@
 
 inherits = "ayu_evolve"
 "ui.background" ={ bg = "none" }
+
+# 1. Catch-all: This applies to ALL comments by default
+"comment" = { fg = '#89CFEF', modifiers = ["italic"] }
+
